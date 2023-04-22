@@ -1,1 +1,1 @@
-# Hackerrank_Practice_Solutions
+# Hackerrank_C_Practice
